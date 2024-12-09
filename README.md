@@ -4,6 +4,10 @@ Welcome to **Tic Tac Toe**, a classic game reimagined for the console! Built wit
 
 ---
 
+![DopaTxt in Action](https://github.com/dopacoding/Tic-Tac-Toe-Game/blob/22867cadefc0231154d69f844cecae6e6ecad478/tik-tak-toe%20game.PNG)
+
+---
+
 ## 📜 Overview
 
 The **Tic Tac Toe Console Game** allows two players to compete in the timeless grid-based challenge. With a user-friendly interface and seamless gameplay, this project is a perfect showcase of programming techniques for beginners and enthusiasts alike.
