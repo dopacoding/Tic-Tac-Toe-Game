@@ -43,8 +43,8 @@ The **Tic Tac Toe Console Game** allows two players to compete in the timeless g
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/dopacoding/tic-tac-toe-console.git
-2 .Open the solution file (TicTacToe.sln) in Visual Studio.
+   git clone https://github.com/dopacoding/tic-tac-toe-console.git 
+2. Open the solution file (TicTacToe.sln) in Visual Studio.
 3. Build and run the project.
 4. Enjoy the game!.
 
