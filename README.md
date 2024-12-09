@@ -39,7 +39,7 @@ The **Tic Tac Toe Console Game** allows two players to compete in the timeless g
 1. Install the latest version of [Visual Studio](https://visualstudio.microsoft.com/).  
 2. Ensure the .NET Framework is installed.  
 
-### Steps
+ ### Option 1: 
 
 1. Clone this repository:
    ```bash
@@ -48,6 +48,10 @@ The **Tic Tac Toe Console Game** allows two players to compete in the timeless g
 3. Build and run the project.
 4. Enjoy the game!.
 
+  ### Option 2: Download Executable
+1. Go to the [Releases](https://github.com/dopacoding/Tic-Tac-Toe-Game/releases) section.
+2. Download the latest version of `XO-Game-Final.exe`.
+3. Double-click the executable to launch the application—no setup required!
 
 ## 🎲 How to Play
 
