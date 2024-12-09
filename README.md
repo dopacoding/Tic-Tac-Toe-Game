@@ -58,20 +58,20 @@ The **Tic Tac Toe Console Game** allows two players to compete in the timeless g
 4. Restart or exit after the game ends.
 
 
-##🌟 Key Highlights
+## 🌟 Key Highlights
 
 Clear Code Structure: Code is modular and easy to maintain.
 Customizable: Extend the game with additional features like AI opponents or score tracking.
 Educational Value: Ideal for beginners learning C# and game logic.
 
 
-##🔧 Future Enhancements
+## 🔧 Future Enhancements
 
 🤖 Add an AI opponent for single-player mode
 🕹️ Implement multiplayer over the network
 🎨 Upgrade to a graphical interface with WinForms/WPF
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Here's how you can help:
 1. Fork the repository.
@@ -80,7 +80,7 @@ Contributions are welcome! Here's how you can help:
 4. Push to the branch: git push origin feature-name.
 5. Submit a pull request.
 
-##📄 License
+## 📄 License
 
 This project is Open Sourse.
 
