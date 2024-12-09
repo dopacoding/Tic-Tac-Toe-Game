@@ -60,16 +60,16 @@ The **Tic Tac Toe Console Game** allows two players to compete in the timeless g
 
 ## 🌟 Key Highlights
 
-Clear Code Structure: Code is modular and easy to maintain.
-Customizable: Extend the game with additional features like AI opponents or score tracking.
-Educational Value: Ideal for beginners learning C# and game logic.
+- Clear Code Structure: Code is modular and easy to maintain.
+- Customizable: Extend the game with additional features like AI opponents or score tracking.
+- Educational Value: Ideal for beginners learning C# and game logic.
 
 
 ## 🔧 Future Enhancements
 
-🤖 Add an AI opponent for single-player mode.
-🕹️ Implement multiplayer over the network.
-🎨 Upgrade to a graphical interface with WinForms/WPF.
+- 🤖 Add an AI opponent for single-player mode.
+- 🕹️ Implement multiplayer over the network.
+- 🎨 Upgrade to a graphical interface with WinForms/WPF.
 
 ## 🤝 Contributing
 
